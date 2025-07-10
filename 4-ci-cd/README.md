@@ -36,6 +36,8 @@ I also worked with GitLab CI to configure a pipeline for my bootcamp project:
 Review the full config here:
 [GitLab pipeline file](https://gitlab.com/team-2-dumbways/wayshub-frontend/-/blob/main/.gitlab-ci.yml)
 
+More Details: [HERE](https://github.com/fadil05me/devops20-dumbways-AhmadFadillah/blob/main/stage2/week2/day3/README.md)
+
 ---
 
 ## Summary
