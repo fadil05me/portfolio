@@ -2,8 +2,7 @@
 
 This folder contains Ansible playbooks used to automate the provisioning and setup of a Kubernetes (K3s) cluster, Docker, Jenkins, monitoring, firewall, and reverse proxy—all part of my DevOps bootcamp final task.
 
-**See details:** 
-[`https://github.com/fadil05me/devops20-dumbways-AhmadFadillah/tree/main/stage2/final-task/ansible`](Ansible)
+**See details:** ([Ansible](https://github.com/fadil05me/devops20-dumbways-AhmadFadillah/tree/main/stage2/final-task/ansible))
 
 ---
 
